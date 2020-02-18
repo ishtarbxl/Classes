@@ -1,4 +1,8 @@
 Exampe file to modify
 
+<<<<<<< HEAD
 Nicolas Raes
 uyffy
+=======
+
+>>>>>>> parent of eb53073... Update Example.txt
