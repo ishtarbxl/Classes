@@ -1,12 +1,2 @@
 Exampe file to modify
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Nicolas Raes
-uyffy
-=======
-
->>>>>>> parent of eb53073... Update Example.txt
-=======
-
->>>>>>> parent of eb53073... Update Example.txt
